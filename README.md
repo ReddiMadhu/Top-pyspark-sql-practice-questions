@@ -1,5 +1,4 @@
 
----
 
 ```markdown
 # PySpark & SQL Practice Questions
