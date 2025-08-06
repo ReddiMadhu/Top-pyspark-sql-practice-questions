@@ -1,4 +1,3 @@
-Here is the full **README.md** content you can copy directly into your project:
 
 ---
 
@@ -21,7 +20,7 @@ Each question is solved in two ways:
 
 ```
 
-.
+
 ├── leetcode/
 │   ├── 1-query-title.md
 │   ├── 1-query.sql
